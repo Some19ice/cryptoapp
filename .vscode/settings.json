@@ -18,5 +18,9 @@
     "titleBar.inactiveBackground": "#a662c199",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#a662c1"
+  "peacock.color": "#a662c1",
+  "files.autoSave": "afterDelay",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.tabCompletion": "on",
+  "editor.formatOnSave": true
 }
