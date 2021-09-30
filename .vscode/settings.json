@@ -22,5 +22,9 @@
   "files.autoSave": "afterDelay",
   "editor.bracketPairColorization.enabled": true,
   "editor.tabCompletion": "on",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "prettier.useTabs": true,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.jsxBracketSameLine": true
 }
