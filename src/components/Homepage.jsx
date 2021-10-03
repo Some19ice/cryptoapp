@@ -8,7 +8,7 @@ import { useGetCryptosQuery } from '../services/cryptoApi'
 const { Title } = Typography
 
 const Homepage = () => {
-  const { data: myData, isFetching } = useGetCryptosQuery(10);
+  const { data: myData, isFetching } = useGetCryptosQuery();
   const globalStats = myData;
 
   // const { total, totalExchanges, totalMarketCap, total24hVolume, totalMarkets } = globalStats.data.stats;
